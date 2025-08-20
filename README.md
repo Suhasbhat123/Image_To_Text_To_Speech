@@ -5,6 +5,7 @@ Link:https://ieeexplore.ieee.org/abstract/document/11083547
 
 # Features:
 📷 Image Input: Capture or upload images containing handwritten/printed text.
+
 🔍 Text Recognition:
 CRNN model for robust sequence learning.
 Pytesseract OCR for fine-grained recognition.
