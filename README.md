@@ -1,1 +1,2 @@
-# Image_To_Text_To_Speech
+# Image To Text To Speech
+This project presents a multimodal framework designed to assist physically impaired individuals by converting handwritten or printed text into speech output. It combines deep learning (CRNN) with OCR (Pytesseract) for accurate text recognition, and integrates Text-to-Speech (TTS) supporting 100+ languages. A simple Tkinter-based GUI makes the system user-friendly and accessible globally
