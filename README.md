@@ -7,19 +7,29 @@ Link:https://ieeexplore.ieee.org/abstract/document/11083547
 📷 Image Input: Capture or upload images containing handwritten/printed text.
 
 🔍 Text Recognition:
+
 CRNN model for robust sequence learning.
+
 Pytesseract OCR for fine-grained recognition.
+
 🗣 Text-to-Speech Conversion in 100+ languages (via gTTS/pyttsx3).
+
 💻 Tkinter GUI for intuitive usage.
+
 🌍 Global Accessibility: Supports English, Hindi, Kannada, Spanish, French, Chinese, Japanese, and many more.
 
 # Impact:
 Enables physically impaired and visually challenged individuals to access textual information in their native language.
+
 Achieved 90%+ recognition accuracy on handwritten text dataset.
+
 Published as a research paper: From Vision to Voice – A Multimodal Framework for Physically Impaired.
 
 # How It Works:
 Upload an image of handwritten or printed text.
+
 Model extracts text using CRNN + Pytesseract.
+
 Text is displayed in the GUI.
+
 Select language → Press Speak → text is converted into voice output.
